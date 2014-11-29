@@ -8,6 +8,7 @@ serieslinks = {
 'Grey s Anatomy Die jungen Aerzte':'greys-anatomy',
 'Game Of Thrones Das Lied von Eis und Feuer':'game-of-thrones',
 'Star Trek Das naechste Jahrhundert':'raumschiff-enterprise-das-naechste-jahrhundert',
-'Chiggington Die Loks sind los':'chuggington-die-loks-sind-los'
+'Chiggington Die Loks sind los':'chuggington-die-loks-sind-los',
+'Doc McStuffins Spielzeugaerztin' : 'doc-mcstuffins-spielzeugaerztin'
 } 
                #to be continued...

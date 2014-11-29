@@ -12,5 +12,6 @@ senderlinks = {
 'zdf' : 'zdf',
 'mdr' : 'mdr',
 'srtl' : 'srtl',
+'disney' : 'disney',
 'tele5' : 'tele5'
 }
