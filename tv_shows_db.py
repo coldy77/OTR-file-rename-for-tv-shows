@@ -7,6 +7,7 @@ serieslinks = {
 'The Vampire Diaries':'Vampire-Diaries',
 'Grey s Anatomy Die jungen Aerzte':'greys-anatomy',
 'Game Of Thrones Das Lied von Eis und Feuer':'game-of-thrones',
+'Star Trek Das naechste Jahrhundert':'raumschiff-enterprise-das-naechste-jahrhundert',
 'Chiggington Die Loks sind los':'chuggington-die-loks-sind-los'
 } 
                #to be continued...

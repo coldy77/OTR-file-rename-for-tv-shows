@@ -11,5 +11,6 @@ senderlinks = {
 'zdfneo' : 'zdf_neo',
 'zdf' : 'zdf',
 'mdr' : 'mdr',
-'srtl' : 'srtl'
+'srtl' : 'srtl',
+'tele5' : 'tele5'
 }
