@@ -6,6 +6,7 @@ serieslinks = {
 'Fringe':'fringe-grenzfaelle-des-fbi',
 'The Vampire Diaries':'Vampire-Diaries',
 'Grey s Anatomy Die jungen Aerzte':'greys-anatomy',
-'Game Of Thrones Das Lied von Eis und Feuer':'game-of-thrones'
+'Game Of Thrones Das Lied von Eis und Feuer':'game-of-thrones',
+'Chiggington Die Loks sind los':'chuggington-die-loks-sind-los'
 } 
                #to be continued...
