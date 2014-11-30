@@ -14,6 +14,7 @@ senderlinks = {
 'sf2' : 'sf2',
 'mdr' : 'mdr',
 'anixe' : 'anixe',
+'arte' : 'arte',
 'srtl' : 'srtl',
 'disney' : 'disney',
 'tele5' : 'tele5'
