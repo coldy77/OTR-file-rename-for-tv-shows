@@ -10,6 +10,7 @@ senderlinks = {
 'sat1' : 'sat1',
 'zdfneo' : 'zdf_neo',
 'zdf' : 'zdf',
+'ard' : 'ard',
 'mdr' : 'mdr',
 'srtl' : 'srtl',
 'disney' : 'disney',
