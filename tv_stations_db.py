@@ -13,6 +13,7 @@ senderlinks = {
 'ard' : 'ard',
 'sf2' : 'sf2',
 'mdr' : 'mdr',
+'kabel1' : 'kabel1',
 'anixe' : 'anixe',
 'arte' : 'arte',
 'srtl' : 'srtl',
