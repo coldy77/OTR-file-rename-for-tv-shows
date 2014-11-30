@@ -31,6 +31,7 @@ class OTR_Rename(object):
         self.extension = os.path.splitext(self.file)[1]
         m = re.search("(.*)_([0-9]{2}\.[0-9]{2}\.[0-9]{2})_([0-9]{2}\-[0-9]{2})_([A-Za-z0-9]+)", self.file)
         title = m.group(1)
+        title = title.replace("__", '_')
         title = title.split('__')[0] # for US series SeriesName__EpisodeTitle (problems with shows like CSI__NY)
         self.show = title.replace("_",' ')
         self.epdate = m.group(2)
