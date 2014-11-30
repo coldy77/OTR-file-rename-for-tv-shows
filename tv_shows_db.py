@@ -9,6 +9,7 @@ serieslinks = {
 'Game Of Thrones Das Lied von Eis und Feuer':'game-of-thrones',
 'Star Trek Das naechste Jahrhundert':'raumschiff-enterprise-das-naechste-jahrhundert',
 'Chiggington Die Loks sind los':'chuggington-die-loks-sind-los',
-'Doc McStuffins Spielzeugaerztin' : 'doc-mcstuffins-spielzeugaerztin'
+'Doc McStuffins Spielzeugaerztin' : 'doc-mcstuffins-spielzeugaerztin',
+'Criminal Minds Team Red' : 'criminal-minds-team-red'
 } 
                #to be continued...
