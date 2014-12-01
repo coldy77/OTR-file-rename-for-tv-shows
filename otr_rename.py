@@ -91,9 +91,9 @@ class OTR_Rename(object):
         newfilename = self.buildNewFilename()
         if newfilename != False:
             newfilename = "".join(i for i in newfilename if i not in r'\/:*?"<>|') 
-            newpath = self.show + '/' + self.date + '.' + newfilename
+            newpath = self.show + '/' + self.epdate + '.' + self.eptime + '.' + newfilename
         else:
-            newpath = self.show + '/' + self.date + '.' + self.file
+            newpath = self.show + '/' + self.epdate + '.' + self.eptime + '.' + self.file
         
         if not(os.path.isfile(newpath)):
             move(self.file, newpath)
