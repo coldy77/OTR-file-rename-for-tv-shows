@@ -11,6 +11,7 @@ serieslinks = {
 'Chiggington Die Loks sind los':'chuggington-die-loks-sind-los',
 'Doc McStuffins Spielzeugaerztin' : 'doc-mcstuffins-spielzeugaerztin',
 'Criminal Minds Team Red' : 'criminal-minds-team-red',
-'Sturm der Liebe' : 'sturm-der-liebe'
+'Sturm der Liebe' : 'sturm-der-liebe',
+'Doctor Who' : 'doctor-who'
 } 
                #to be continued...

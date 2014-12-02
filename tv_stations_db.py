@@ -19,6 +19,6 @@ senderlinks = {
 'srtl' : 'srtl',
 'disney' : 'disney',
 'tele5' : 'tele5',
-'ukbbc' : 'ukbbc',
-'ukbbc3' : 'ukbbc3'
+'ukbbc' : 'bbc-entertainment',
+'ukbbc3' : 'bbc-entertainment'
 }
