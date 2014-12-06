@@ -94,7 +94,9 @@ class OTR_Rename(object):
             newpath = self.show + '/' + self.epdate + '_' + self.eptime + '_' + newfilename
         else:
             newpath = self.show + '/' + self.epdate + '_' + self.eptime + '_' + self.file
-        
+
+        log.write("path " + newpath + "\n")
+
         if not(os.path.isfile(newpath)):
             move(self.file, newpath)
             log.write(str(jahr)+'-'+ str(monat) +'-'+ str(tag) +' '+ str(stunde) +':'+ str(minute) +' : ')
